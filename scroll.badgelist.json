@@ -552,9 +552,9 @@
       "baseUrl": "https://api.symbiosis.finance/crosschain/v1/scroll-badge"
     },
     {
-      "name": "Nuri Locker Badge",
+      "name": "Nuri Locker Badge (10)",
       "image": "https://raw.githubusercontent.com/RamsesExchange/nuri-canvas-contracts/master/images/nuri-locker-standard-badge.png",
-      "description": "This badge represents ownership of a veNURI lock on Scroll",
+      "description": "This badge represents ownership of a veNURI lock with at least 10 NURI and a locktime above 3 years",
       "badgeContract": "0x7E7946A39cAAA00c129D7A61c562a1fBb7974718",
       "category": "Achievement",
       "issuer": {
