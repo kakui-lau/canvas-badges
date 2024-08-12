@@ -555,7 +555,7 @@
       "name": "Nuri Locker Badge",
       "image": "https://raw.githubusercontent.com/RamsesExchange/nuri-canvas-contracts/master/images/nuri-locker-standard-badge.png",
       "description": "This badge represents ownership of a veNURI lock on Scroll",
-      "badgeContract": "0x1dd225EA9585462FF7cb32b1EE7f9a54a4606b66",
+      "badgeContract": "0x7E7946A39cAAA00c129D7A61c562a1fBb7974718",
       "category": "Achievement",
       "issuer": {
         "name": "Nuri Exchange",
