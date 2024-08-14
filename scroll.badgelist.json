@@ -586,7 +586,7 @@
       "name": "NFTs2Me Creator Badge",
       "image": "https://ipfs.io/ipfs/QmZa47KUwQzFhH3f8oHcdTaodsaSq3zAh7EoAAGGS4FFjP",
       "description": "Badge awarded for creating at least one NFT Collection on Scroll using https://NFTs2Me.com",
-      "badgeContract": "0xdD511825B909ca5F38f911bC7908ec60FA48046c",
+      "badgeContract": "0x1121F46b5581B5285BC571703cd772B336aa12e6",
       "category": "Achievement",
       "issuer": {
         "name": "NFTs2Me",
