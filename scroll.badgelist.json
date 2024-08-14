@@ -756,7 +756,7 @@
       "baseUrl": "https://api.orbiter.finance/badge"
     },
     {
-      "name": "Silver Scroll Bridger Badge",
+      "name": "Bronze Scroll Bridger Badge",
       "image": "https://cdn.orbiter.finance/badge/bronze.png",
       "description": "Pilots who complete two bridges to Scroll Network via Orbiter Finance can claim the Badge",
       "badgeContract": "0x69308f7554B5Af07cE7735D058454Fb4e35C0998",
